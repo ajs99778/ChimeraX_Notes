@@ -1,0 +1,39 @@
+<BundleInfo name="ChimeraX-Notes" 
+            customInit="false"
+            minSessionVersion="3"
+            maxSessionVersion="3"
+            package="notes_widget"
+            purePython="true"
+            version="1.0a1">
+            
+            <Author>Tony Schaefer</Author>
+            <Email>tony.schaefer.chem@gmail.com</Email>
+			<URL>https://github.com/ajs99778/ChimeraX_OpenCommands</URL>
+            <License>license.txt</License>
+            <Synopsis>Adds a widget for notes</Synopsis>
+            <Description>
+				Adds a widget for notes
+            </Description>
+            
+            <Dependencies>
+                <Dependency name="ChimeraX-Core" version="&gt;=1.4, &lt;=1.9"/>
+            </Dependencies>
+
+            <Categories>
+                <Category name="General"/>
+            </Categories>
+
+            <Classifiers>
+                <PythonClassifier>Development Status :: 3 - Alpha</PythonClassifier>
+                <PythonClassifier>Framework :: ChimeraX</PythonClassifier>
+                <PythonClassifier>Intended Audience :: Science/Research</PythonClassifier>
+                <PythonClassifier>Natural Language :: English</PythonClassifier>
+                <PythonClassifier>Programming Language :: Python :: 3</PythonClassifier>
+                <PythonClassifier>Topic :: Scientific/Engineering :: Chemistry</PythonClassifier>
+                <PythonClassifier>Topic :: Scientific/Engineering :: Visualization</PythonClassifier>
+                <PythonClassifier>License :: OSI Approved :: Apache Software License</PythonClassifier>
+
+                <ChimeraXClassifier>ChimeraX :: Tool :: My Notes :: General :: Save notes on stuff</ChimeraXClassifier>
+			</Classifiers>
+
+</BundleInfo>
