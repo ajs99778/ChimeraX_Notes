@@ -7,7 +7,6 @@
 Seep either session-specific notes or notes across all sessions. 
 
 ### Installation
-OpenCommands can be installed from the <a href="https://cxtoolshed.rbvi.ucsf.edu/apps/chimeraxopencommands">toolshed</a> within ChimeraX:
 1. download the .whl file from the dist folder
 2. in ChimeraX, run "toolshed install /path/to/ChimeraX_notes-version.whl"
 
